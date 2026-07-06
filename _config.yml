@@ -9,11 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hongjian Ma"
+title                    : "马洪建"
 title_separator          : "-"
-name                     : &name "Hongjian Ma"
-description              : &description "M.S. student | Research interests: AI, NLP, Data Mining"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://hongjianMa.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "马洪建"
+description              : &description "马洪建的个人学术主页",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongjianMa/hongjianMa.github.io"
@@ -24,13 +23,13 @@ repository               : "hongjianMa/hongjianMa.github.io"
 author:
   # Biographic information
   avatar           : "111mhj.png"
-  name             : "Your Sidebar Name"
+  name             : "马洪建"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "本科"
+  location         : "湖北武汉"
+  employer         : "湖北大学"
+  uri              : "https://hongjianma.github.io"
+  email            : "mhj@stu.hubu.edu.cn" 
 
   # Academic websites
   academia         : # URL
