@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "马洪建"
 title_separator          : "-"
 name                     : &name "马洪建"
-description              : &description "马洪建的个人学术主页",
+description              : &description "马洪建的个人学术主页"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongjianMa/hongjianMa.github.io"
